@@ -1,5 +1,6 @@
 git pull
 cp .vimrc ~/.vimrc
-mkdir -p ~/.vim/color
-cp .vim/color ~/.vim/color
+mkdir -p ~/.vim/colors
+cp .vim/colors/molokai.vim ~/.vim/colors/molokai.vim
+
 
